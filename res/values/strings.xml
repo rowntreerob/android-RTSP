@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chooser</string>
+    <string name="button_pick_contact">Pick Contact</string>
+    <string name="button_record_audio">Record Audio</string>
+</resources>
